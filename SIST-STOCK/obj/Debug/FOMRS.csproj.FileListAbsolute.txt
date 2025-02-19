@@ -1,0 +1,10 @@
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\bin\Debug\SIST-STOCK.exe.config
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\bin\Debug\SIST-STOCK.exe
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\bin\Debug\SIST-STOCK.pdb
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\FOMRS.csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\SIST_STOCK.Form1.resources
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\SIST_STOCK.Properties.Resources.resources
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\FOMRS.csproj.GenerateResource.cache
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\FOMRS.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\SIST-STOCK.exe
+C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\SIST-STOCK.pdb
