@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SIST_STOCK
 {
-    public partial class Form1 : Form
+    public partial class pantallaPrincipal : Form
     {
-        public Form1()
+        public pantallaPrincipal()
         {
             InitializeComponent();
         }
