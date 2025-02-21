@@ -8,3 +8,14 @@ C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\FOMRS.csproj.Genera
 C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\FOMRS.csproj.CoreCompileInputs.cache
 C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\SIST-STOCK.exe
 C:\Users\carlos\source\repos\SIST-STOCK\SIST-STOCK\obj\Debug\SIST-STOCK.pdb
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\bin\Debug\SIST-STOCK.exe.config
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\bin\Debug\SIST-STOCK.exe
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\bin\Debug\SIST-STOCK.pdb
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\FOMRS.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\SIST_STOCK.agregarProducto.resources
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\SIST_STOCK.pantallaPrincipal.resources
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\SIST_STOCK.Properties.Resources.resources
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\FOMRS.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\FOMRS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\SIST-STOCK.exe
+C:\Users\Usuario\Desktop\csharp\APP-Negocio\SIST-STOCK\obj\Debug\SIST-STOCK.pdb

@@ -16,5 +16,10 @@ namespace SIST_STOCK
         {
             InitializeComponent();
         }
+
+        private void botonCancelar_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

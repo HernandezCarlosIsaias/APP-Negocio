@@ -16,5 +16,11 @@ namespace SIST_STOCK
         {
             InitializeComponent();
         }
+
+        private void botonAgregarProducto_Click(object sender, EventArgs e)
+        {
+            agregarProducto formProducto = new agregarProducto();
+            formProducto.Show();
+        }
     }
 }

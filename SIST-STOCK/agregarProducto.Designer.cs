@@ -170,6 +170,7 @@
             this.botonCancelar.TabIndex = 14;
             this.botonCancelar.Text = "Cancelar";
             this.botonCancelar.UseVisualStyleBackColor = false;
+            this.botonCancelar.Click += new System.EventHandler(this.botonCancelar_Click);
             // 
             // agregarProducto
             // 
