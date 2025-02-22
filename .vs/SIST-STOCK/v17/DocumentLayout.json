@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|c:\\users\\usuario\\desktop\\csharp\\app-negocio\\sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> frontend
       "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -79,8 +86,12 @@
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\pantallaPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "SIST-STOCK\\pantallaPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-02-21T23:50:55.14Z",
               "EditorCaption": " [Dise\u00F1o]"
+=======
+              "WhenOpened": "2025-02-21T22:02:51.923Z"
+>>>>>>> frontend
             },
             {
               "$type": "Document",
@@ -88,8 +99,14 @@
               "Title": "agregarProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\agregarProducto.cs",
               "RelativeDocumentMoniker": "SIST-STOCK\\agregarProducto.cs",
+<<<<<<< HEAD
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\agregarProducto.cs [Dise\u00F1o]",
               "RelativeToolTip": "SIST-STOCK\\agregarProducto.cs [Dise\u00F1o]",
+=======
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\agregarProducto.cs",
+              "RelativeToolTip": "SIST-STOCK\\agregarProducto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAA6AAAAAAAAAA==",
+>>>>>>> frontend
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T23:50:49.899Z",
               "EditorCaption": " [Dise\u00F1o]"

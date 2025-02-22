@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{52D80986-223C-43D4-9574-CD4911D595E6}|dominio\\dominio.csproj|C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52D80986-223C-43D4-9574-CD4911D595E6}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -16,6 +17,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|c:\\users\\carlos\\source\\repos\\sist-stock\\sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|c:\\users\\usuario\\desktop\\csharp\\app-negocio\\sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> frontend
       "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,12 +27,17 @@
       "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{52D80986-223C-43D4-9574-CD4911D595E6}|dominio\\dominio.csproj|C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52D80986-223C-43D4-9574-CD4911D595E6}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52D80986-223C-43D4-9574-CD4911D595E6}|dominio\\dominio.csproj|C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52D80986-223C-43D4-9574-CD4911D595E6}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\sist-stock\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> frontend
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +47,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> frontend
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +60,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "pantallaPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\SIST-STOCK\\pantallaPrincipal.cs",
               "RelativeDocumentMoniker": "SIST-STOCK\\pantallaPrincipal.cs",
@@ -80,10 +94,20 @@
               "RelativeToolTip": "SIST-STOCK\\pantallaPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T23:50:55.14Z",
+=======
+              "Title": "agregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\agregarProducto.cs",
+              "RelativeDocumentMoniker": "SIST-STOCK\\agregarProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\agregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SIST-STOCK\\agregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:02:53.812Z",
+>>>>>>> frontend
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "agregarProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\SIST-STOCK\\agregarProducto.cs",
@@ -105,6 +129,28 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T03:21:25.987Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "pantallaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\pantallaPrincipal.cs",
+              "RelativeDocumentMoniker": "SIST-STOCK\\pantallaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\pantallaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SIST-STOCK\\pantallaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:02:51.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "agregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\agregarProducto.cs",
+              "RelativeDocumentMoniker": "SIST-STOCK\\agregarProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\csharp\\APP-Negocio\\SIST-STOCK\\agregarProducto.cs",
+              "RelativeToolTip": "SIST-STOCK\\agregarProducto.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:02:56.826Z",
+>>>>>>> frontend
               "EditorCaption": ""
             },
             {
