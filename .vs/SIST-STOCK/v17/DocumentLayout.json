@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|c:\\users\\carlos\\source\\repos\\sist-stock\\sist-stock\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|c:\\users\\carlos\\source\\repos\\sist-stock\\sist-stock\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BCB3BC9-E200-483F-97A7-2A8FC48276A4}|SIST-STOCK\\FOMRS.csproj|solutionrelative:sist-stock\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52D80986-223C-43D4-9574-CD4911D595E6}|dominio\\dominio.csproj|C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "pantallaPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\SIST-STOCK\\pantallaPrincipal.cs",
               "RelativeDocumentMoniker": "SIST-STOCK\\pantallaPrincipal.cs",
@@ -50,14 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "agregarProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\SIST-STOCK\\agregarProducto.cs",
               "RelativeDocumentMoniker": "SIST-STOCK\\agregarProducto.cs",
               "ToolTip": "C:\\Users\\carlos\\source\\repos\\SIST-STOCK\\SIST-STOCK\\agregarProducto.cs [Dise\u00F1o]",
               "RelativeToolTip": "SIST-STOCK\\agregarProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T23:50:49.899Z"
+              "WhenOpened": "2025-02-21T23:50:49.899Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
