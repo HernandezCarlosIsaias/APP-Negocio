@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dominio",
     "\\WinFormsApp1"
   ],
-  "SelectedNode": "\\WinFormsApp1\\Form1.resx",
+  "SelectedNode": "\\dominio\\Articulo.cs",
   "PreviewInSolutionExplorer": false
 }
